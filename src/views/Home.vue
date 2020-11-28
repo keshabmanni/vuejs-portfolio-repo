@@ -111,11 +111,11 @@
       </div>
       <div class="social_link">
         <ul>
-          <li><i class="fab fa-facebook-f"></i></li>
-          <li><i class="fab fa-twitter"></i></li>
-          <li><i class="fab fa-instagram"></i></li>
-          <li><i class="fab fa-linkedin-in"></i></li>
-          <li><i class="fab fa-github"></i></li>
+          <a href="https://www.facebook.com/profile.php?id=100004594218933&ref=bookmarks" target="_blank"><li><i class="fab fa-facebook-f"></i></li></a>
+          <a href="https://twitter.com/KeshabManni?s=08" target="_blank"><li><i class="fab fa-twitter"></i></li></a>
+          <a href="https://www.instagram.com/keshab_manni/?hl=en" target="_blank"><li><i class="fab fa-instagram"></i></li></a>
+          <a href="https://www.linkedin.com/in/keshab-manni-5665k" target="_blank"><li><i class="fab fa-linkedin-in"></i></li></a>
+          <a href="https://github.com/keshabmanni" target="_blank"><li><i class="fab fa-github"></i></li></a>
         </ul>
       </div>
       <!--HelloWorld msg="Welcome to Your Vue.js App" /-->
